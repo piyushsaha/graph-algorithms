@@ -51,7 +51,7 @@ void tsp(int s=0) {
 		cout << ans[i] << " -> ";
 	}
 	cout << s << endl;	
-}
+}  
 
 
 int main() {
